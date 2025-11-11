@@ -5,7 +5,7 @@ A minimal Flutter animation that toggles between light and dark mode using **Ani
 🎯 Purpose: Built as part of Alkurdy Tech’s Flutter animation demos for X/Twitter posts.
 
 ## 🎬 Preview
-https://github.com/alkurdy/theme_switcher_demo/assets/theme_switcher.mp4
+https://github.com/Alkurdy-Tech/theme_switcher_demo/blob/main/assets/theme_switcher.mp4
 
 ## 💡 Features
 - Smooth rotation animation on icon change.
